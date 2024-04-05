@@ -6,6 +6,5 @@ This simple project was designed to enable users do the following:
 
 * Create and display their appointment records.
 * Search for a specific appointment using either letters or numbers.
-* Input order of priority
-* Input order of date.
+* Tally appointments by date or priority
 
