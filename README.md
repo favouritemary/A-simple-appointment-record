@@ -1,3 +1,11 @@
 # A-simple-appointment-record
 
-This is a simple project of designing, implementing and testing a program that enables the user to create and display their appointment records, and search for a specific appointment using either letters or numbers. It is also designed in such a way that the user can input the order of priority as well as specific order of date.
+It is so amazing what programming can do these days. A set of instructions that can make our daya to day activities easy.
+
+This simple project was designed to enable users do the following:
+
+* Create and display their appointment records.
+* Search for a specific appointment using either letters or numbers.
+* Input order of priority
+* Input order of date.
+
