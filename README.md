@@ -1,6 +1,6 @@
 # A-simple-appointment-record
 
-It is so amazing what programming can do these days. A set of instructions that can make our daya to day activities easy.
+It is so amazing what programming can do these days. A set of instructions that can make our day to day activities easy.
 
 This simple project was designed to enable users do the following:
 
